@@ -1,5 +1,5 @@
 # Hello, I'm Collins Aladekugbe
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/collins-aladekugbe-4b69ba29b/)" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
