@@ -1,7 +1,7 @@
 # Hello, I'm Collins Aladekugbe
 <a href="https://linkedin.com/in/collins-aladekugbe-4b69ba29b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction ]
 
 I am currently a college student with a profound interest in technology and a dedication to solving complex problems.
 
